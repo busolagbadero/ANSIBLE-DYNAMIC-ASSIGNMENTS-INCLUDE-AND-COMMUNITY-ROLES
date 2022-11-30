@@ -68,7 +68,18 @@ I will activate load balancer, and enable nginx by setting these in the respecti
 
 The same must work with apache LB, so i can switch it by setting respective environmental variable to true and other to false.
 
-Then i ran the playbook.
+Then i ran the playbook. 
+
+![ta22](https://user-images.githubusercontent.com/94229949/204692423-8f46a677-b9da-4e2a-9c64-927071f2fef2.png)
+
+![ta23](https://user-images.githubusercontent.com/94229949/204692438-d5532305-63fc-44cc-bd93-3fc49ddf794c.png)
+
+![ta24](https://user-images.githubusercontent.com/94229949/204692450-7b1e7404-cf80-4cfd-b67c-11cfa8e150a8.png)
+
+![ta25](https://user-images.githubusercontent.com/94229949/204692479-b015c156-beb7-4a7d-8c19-346cf9a168d7.png)
+
+
+
 
 
 
